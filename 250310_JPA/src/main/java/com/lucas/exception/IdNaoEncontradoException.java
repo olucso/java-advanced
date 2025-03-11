@@ -1,4 +1,4 @@
 package com.lucas.exception;
 
-public class IdNaoEncontradoException {
+public class IdNaoEncontradoException extends Exception {
 }
